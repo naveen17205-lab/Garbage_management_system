@@ -1,1 +1,0 @@
-# Garbage_management_system
